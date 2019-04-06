@@ -35,6 +35,8 @@ The most important thing! Please update the README.md with your name in collabor
 
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
 
+- Stephen Madubuike - [@Decolt] - @hng-teamdrangonbones/backend-team - Member
+
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
 
